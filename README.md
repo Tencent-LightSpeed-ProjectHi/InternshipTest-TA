@@ -1,6 +1,6 @@
 # 特效TA 测试题
 ## 测试内容
-使用测试工程内/Script/Engine.SkeletalMesh'/Game/Medhue_Squirrel/Mesh/Squirrel_Mesh.Squirrel_Mesh'，利用Niagara和蓝图，构建一个生动、高性能、可交互的松鼠集群。
+使用测试工程内Content/Medhue_Squirrel/Mesh/Squirrel_Mesh，利用Niagara和蓝图，构建一个生动、高性能、可交互的松鼠集群。
 ![image](https://github.com/user-attachments/assets/aca83a29-0746-4b07-b7f4-da5bc4d174d1)
 
 
