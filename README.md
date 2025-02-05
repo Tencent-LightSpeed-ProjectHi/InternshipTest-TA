@@ -1,6 +1,7 @@
 # 特效TA 测试题
 ## 测试内容
 使用测试工程内/Script/Engine.SkeletalMesh'/Game/Medhue_Squirrel/Mesh/Squirrel_Mesh.Squirrel_Mesh'，利用Niagara和蓝图，构建一个生动、高性能、可交互的松鼠集群。
+![image](https://github.com/user-attachments/assets/aca83a29-0746-4b07-b7f4-da5bc4d174d1)
 
 
 ### 基础要求
@@ -12,6 +13,7 @@
 6.与角色交互
 a.使用官方第三人称Demo角色
 b.当角色靠近时，松鼠躲避角色
+![image](https://github.com/user-attachments/assets/a0d4937c-6912-4ded-89f7-c02e25a6002c)
 
 
 ### 进阶要求	
