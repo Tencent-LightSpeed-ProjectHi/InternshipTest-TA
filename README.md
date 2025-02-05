@@ -31,4 +31,5 @@
 
 
 ## 提交方式
-将Content打包成zip，提交到branqian@tencent.com
+- 将Content打包成zip或上传到github并设置项目为public，发送到branqian@tencent.com
+- 并附上个人简历
