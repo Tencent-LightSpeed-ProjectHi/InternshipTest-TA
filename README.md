@@ -4,6 +4,8 @@
 使用测试工程内Content/Medhue_Squirrel/Mesh/Squirrel_Mesh，利用Niagara和蓝图，构建一个生动、高性能、可交互的松鼠集群。
 ![image](https://github.com/user-attachments/assets/aca83a29-0746-4b07-b7f4-da5bc4d174d1)
 
+### 注意事项
+鼓励各种形式的搜索、research，但需要在理解的基础上复用，禁止抄袭公开代码或相互抄袭。
 
 ### 基础要求
 1. 可以控制Crowd的数量和分布范围
