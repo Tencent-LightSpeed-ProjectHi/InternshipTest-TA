@@ -1,4 +1,4 @@
-# 特效TA 测试题
+# Hi - VFX TA 测试题
 ## 测试内容
 使用UE5.5打开工程
 使用测试工程内Content/Medhue_Squirrel/Mesh/Squirrel_Mesh，利用Niagara和蓝图，构建一个生动、高性能、可交互的松鼠集群。
