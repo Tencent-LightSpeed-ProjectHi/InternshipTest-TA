@@ -35,4 +35,5 @@
 
 ## 提交方式
 - 将Content打包成zip或上传到github并设置项目为public，发送到branqian@tencent.com
+- 邮件名称为【光子工作室Hi项目TA实习-XXX】，xxx为你的名字
 - 并附上个人简历
